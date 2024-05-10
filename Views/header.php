@@ -31,25 +31,25 @@
     <header>
         <nav class="h-100 d-flex justify-content-between">
             <ul class="d-flex">
-                <a href="#">
+                <a href="index.php">
                     <li>Offerte</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Cibi</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Giochi</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Accessori</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Chi siamo</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Contatti</li>
                 </a>
-                <a href="#">
+                <a href="index.php">
                     <li>Punti vendita</li>
                 </a>
             </ul>

@@ -45,9 +45,7 @@ if ($method === 'POST') {
             }
         }
     }
-
-
-}
+} elseif ($method === '')
 
 $cartJson = json_encode($cart, JSON_PRETTY_PRINT);
 file_put_contents('cart_db.json', $cartJson);

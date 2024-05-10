@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Delizie di Pollo e Manzo",
         "description": "Mangime completo per cani con pollo e manzo freschi.",
-        "price": 12.9900000000000002131628207280300557613372802734375,
+        "price": 12.99,
         "image": "https:\/\/media.dm-static.com\/images\/f_auto,q_auto,c_fit,h_440,w_500\/v1700323290\/products\/pim\/5900951253461_CesarDelizieGiornoPolloVerdure100gr_12745_IT\/cesar-cibo-umido-in-salsa-per-cani-con-pollo-e-verdure",
         "category": "Cane",
         "ingredients": [
@@ -19,7 +19,7 @@
         "id": 1,
         "name": "Palla per Cani Resistente",
         "description": "Palla resistente per cani ideale per giochi interattivi e per favorire l'esercizio fisico.",
-        "price": 12.9900000000000002131628207280300557613372802734375,
+        "price": 12.99,
         "image": "https:\/\/m.media-amazon.com\/images\/I\/61i3OJ4EycL._AC_UF894,1000_QL80_.jpg",
         "category": "Cane",
         "material": "Gomma",
@@ -29,7 +29,7 @@
         "id": 1,
         "name": "Cuccia Morbida",
         "description": "Cuccia confortevole per il tuo cane o gatto.",
-        "price": 29.989999999999998436805981327779591083526611328125,
+        "price": 29.99,
         "image": "https:\/\/www.saluteinerba.com\/wp-content\/uploads\/2021\/06\/luxury_pet_side.jpg",
         "category": "Cane",
         "materials": [
@@ -37,5 +37,74 @@
             "Imbottitura"
         ],
         "weight": "1.5 kg"
+    },
+    {
+        "id": 1,
+        "name": "Delizie di Pollo e Manzo",
+        "description": "Mangime completo per cani con pollo e manzo freschi.",
+        "price": 12.99,
+        "image": "https:\/\/media.dm-static.com\/images\/f_auto,q_auto,c_fit,h_440,w_500\/v1700323290\/products\/pim\/5900951253461_CesarDelizieGiornoPolloVerdure100gr_12745_IT\/cesar-cibo-umido-in-salsa-per-cani-con-pollo-e-verdure",
+        "category": "Cane",
+        "ingredients": [
+            "Pollo",
+            "Manzo",
+            "Riso",
+            "Verdure"
+        ],
+        "weight": "1 kg",
+        "format": "Scatola"
+    },
+    {
+        "id": 2,
+        "name": "Tonno in Gelatina",
+        "description": "Alimento umido per gatti con tonno fresco in gelatina.",
+        "price": 8.49,
+        "image": "https:\/\/media.dm-static.com\/images\/f_auto,q_auto,c_fit,h_1200,w_1200\/v1700323567\/products\/pim\/3065890122222_ShebaCreazioniSalsaTac_PolloVerdure85gr_8367_IT\/sheba-cibo-umido-per-gatti-in-salsa-con-tacchino-pollo-e-verdure-creazioni-speciali",
+        "category": "Gatto",
+        "ingredients": [
+            "Tonno",
+            "Gelatina",
+            "Acqua"
+        ],
+        "weight": "200 g",
+        "format": "Bustina"
+    },
+    {
+        "id": 7,
+        "name": "Mix di Semi per Canarini",
+        "description": "Selezione di semi per canarini, ricchi di nutrienti essenziali.",
+        "price": 9.99,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/51k+qBaRxOL._AC_UF894,1000_QL80_.jpg",
+        "category": "Uccelli",
+        "ingredients": [
+            "Semi di girasole",
+            "Semi di canapa",
+            "Semi di miglio"
+        ],
+        "weight": "400 g",
+        "format": "Sacchetto"
+    },
+    {
+        "id": 3,
+        "name": "Altalena per Uccelli",
+        "description": "Altalena per uccelli ideale per stimolare l'esercizio e il divertimento nel loro habitat.",
+        "price": 15.79,
+        "image": "https:\/\/shop.hobbyuccelli.it\/452-large_default\/altalena-per-gabbie.jpg",
+        "category": "Uccelli",
+        "material": "Legno e corda",
+        "size": "Larghezza 10 cm, Lunghezza 15 cm"
+    },
+    {
+        "id": 2,
+        "name": "Collare Riflettente",
+        "description": "Collare regolabile con inserti riflettenti per massima visibilit\u00e0 durante le passeggiate notturne.",
+        "price": 12.99,
+        "image": "https:\/\/www.thekill.it\/11577-large_default\/collare-riflettente-regolabile-da-25-a-35-cm.jpg",
+        "category": "Cane",
+        "materials": [
+            "Nylon",
+            "Fibra riflettente"
+        ],
+        "weight": "100 g"
     }
 ]

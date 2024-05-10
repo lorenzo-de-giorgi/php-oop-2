@@ -219,3 +219,8 @@ footer .contact a {
   color: white;
   text-decoration: underline;
 }
+
+.card-cart{
+  width: calc((100% / 4) - 15px);
+  margin-left: 15px;
+}
