@@ -61,7 +61,7 @@
                     <li><i class="fa-solid fa-heart  "></i></li>
                 </a>
 
-                <a href="#">
+                <a href="cart.php">
                     <li><i class="fa-solid fa-cart-shopping"></i></li>
                 </a>
             </ul>

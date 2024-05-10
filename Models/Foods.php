@@ -1,4 +1,3 @@
-
 <?php
 include __DIR__ ."/Product.php";
 class Foods extends Prod

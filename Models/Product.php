@@ -50,7 +50,7 @@ class Prod
             }
             return $items;
             
-        } elseif ($className === 'Accessories') {
+        } elseif ($className === 'Accessory') {
             foreach ($dataToArray as $item) {
                 $category = null;
                 foreach ($categories as $cat) {
@@ -58,10 +58,9 @@ class Prod
                         $category = $cat;
                     }
                 }
-                $items[] = new Accessories($item['id'], $item['name'], $item['description'], $item['price'], $item['image'], $category,  $item['materials'], $item['weight']);
+                $items[] = new Accessory($item['id'], $item['name'], $item['description'], $item['price'], $item['image'], $category,  $item['materials'], $item['weight']);
             }
             return $items;
         }
-
     }
 }

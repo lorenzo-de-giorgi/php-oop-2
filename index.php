@@ -2,11 +2,11 @@
 include __DIR__ . "/Views/header.php";
 include __DIR__ . "/Models/Foods.php";
 include __DIR__ . "/Models/Games.php";
-include __DIR__ . "/Models/Accessories.php";
+include __DIR__ . "/Models/Accessory.php";
 
 $foods = Prod::create('/foods_db.json', 'Foods');
 $games = Prod::create('/games_db.json', 'Games');
-$accessories = Prod::create('/accessory_db.json', 'Accessories');
+$accessories = Prod::create('/accessory_db.json', 'Accessory');
 ?>
 
 <div class="class3Hero d-flex align-items-center justify-content-center">

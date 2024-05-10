@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Delizie di Pollo e Manzo",
+        "description": "Mangime completo per cani con pollo e manzo freschi.",
+        "price": 12.9900000000000002131628207280300557613372802734375,
+        "image": "https:\/\/media.dm-static.com\/images\/f_auto,q_auto,c_fit,h_440,w_500\/v1700323290\/products\/pim\/5900951253461_CesarDelizieGiornoPolloVerdure100gr_12745_IT\/cesar-cibo-umido-in-salsa-per-cani-con-pollo-e-verdure",
+        "category": "Cane",
+        "ingredients": [
+            "Pollo",
+            "Manzo",
+            "Riso",
+            "Verdure"
+        ],
+        "weight": "1 kg",
+        "format": "Scatola"
+    },
+    {
+        "id": 1,
+        "name": "Palla per Cani Resistente",
+        "description": "Palla resistente per cani ideale per giochi interattivi e per favorire l'esercizio fisico.",
+        "price": 12.9900000000000002131628207280300557613372802734375,
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61i3OJ4EycL._AC_UF894,1000_QL80_.jpg",
+        "category": "Cane",
+        "material": "Gomma",
+        "size": "Diametro 10 cm"
+    },
+    {
+        "id": 1,
+        "name": "Cuccia Morbida",
+        "description": "Cuccia confortevole per il tuo cane o gatto.",
+        "price": 29.989999999999998436805981327779591083526611328125,
+        "image": "https:\/\/www.saluteinerba.com\/wp-content\/uploads\/2021\/06\/luxury_pet_side.jpg",
+        "category": "Cane",
+        "materials": [
+            "Tessuto",
+            "Imbottitura"
+        ],
+        "weight": "1.5 kg"
+    }
+]

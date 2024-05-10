@@ -1,6 +1,6 @@
 <?php
 include_once __DIR__ ."/Product.php";
-class Accessories extends Prod
+class Accessory extends Prod
 {
     public $materials;
     public $weight;

@@ -4,8 +4,6 @@ createApp({
   data() {
     return {
         items : [],
-        
-      
     };
   },
   methods: {
@@ -19,8 +17,7 @@ createApp({
             this.items = res.data;
 
         });
-        
-    },
+    }
   },
   computed: {},
   created() {},
